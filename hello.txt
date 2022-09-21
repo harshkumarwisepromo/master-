@@ -1,2 +1,36 @@
 This is git demo....
 This is demo2
+
+
+---------PageSpeed Insights Mobile--------------
+
+Performance = 26
+First Contentful Paint = 2.6 s
+Time to Interactive = 24.7 s
+Speed Index = 7.3 s
+Total Blocking Time = 1,810 ms
+Largest Contentful Paint = 13.5 s
+Cumulative Layout Shift = 0.054
+
+---------PageSpeed Insights Desktop--------------
+
+Performance = 89
+First Contentful Paint = 0.8 s
+Time to Interactive = 3.3 s
+Speed Index = 3.1 s
+Total Blocking Time = 30 ms
+Largest Contentful Paint = 0.8 s
+Cumulative Layout Shift = 0
+
+---------------Working Items------------------------
+
+POST :  {Creating, Updating, Deleting}
+PAGES : {Create, Update, Delete} Working.
+Menus : Working
+PLUGINS : Working
+USERS : Working
+
+----------------Not Working---------------------------
+
+IMAGE Save: {Not working}
+Media Liabarary : {Upload failed...}

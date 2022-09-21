@@ -1,3 +1,6 @@
 This is git demo....
 This is demo2
 This is line number 3
+
+error: failed to push some ref to 'url'
+error: src refsepc main does not match any

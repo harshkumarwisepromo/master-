@@ -11,4 +11,4 @@ jenkins
 docker
 server details
 domain username & Password{jenkins}
-jdk 8
+jdk 17

@@ -1,0 +1,14 @@
+-----------------Working on GitHub---------------
+Git repository creation
+Git check status
+Git add .
+Git commit
+Git Push
+Git Pull
+
+----------------------Requirement on CI/CD GitHub----------------------
+jenkins
+docker
+server details
+domain username & Password{jenkins}
+jdk 8
